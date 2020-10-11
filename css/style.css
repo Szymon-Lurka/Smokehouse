@@ -14,7 +14,9 @@
   font-size: inherit;
 }
 
-.bgc {
+.bgc,
+.bgc02,
+.bgc03 {
   background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../background1.jpg);
   background-position: bottom;
   background-size: cover;
@@ -22,6 +24,22 @@
   background-attachment: fixed;
   height: 50vh;
   position: relative;
+}
+
+.bgc02 {
+  background: url(../bg0.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.bgc03 {
+  background: url(../bg00.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .buttonek {
@@ -36,7 +54,6 @@
 .bgc4 {
   height: 400px;
   background-repeat: no-repeat;
-  /* background-size: cover; */
   background-position: center;
 }
 
