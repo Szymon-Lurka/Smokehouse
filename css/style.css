@@ -1,0 +1,57 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+.bgc {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../background1.jpg);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 50vh;
+  position: relative;
+}
+
+.buttonek {
+  bottom: 0;
+  right: 50px;
+  position: absolute;
+}
+
+.bgc1,
+.bgc2,
+.bgc3,
+.bgc4 {
+  height: 400px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-position: center;
+}
+
+.bgc1 {
+  background-image: url(../background2.jpg);
+}
+
+.bgc2 {
+  background-image: url(../background3.jpg);
+}
+
+.bgc3 {
+  background-image: url(../background4.jpg);
+}
+
+.bgc4 {
+  background-image: url(../background5.jpg);
+}
