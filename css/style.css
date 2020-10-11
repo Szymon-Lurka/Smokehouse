@@ -40,18 +40,6 @@
   background-position: center;
 }
 
-.bgc1 {
-  background-image: url(../background2.jpg);
-}
-
-.bgc2 {
-  background-image: url(../background3.jpg);
-}
-
-.bgc3 {
-  background-image: url(../background4.jpg);
-}
-
-.bgc4 {
-  background-image: url(../background5.jpg);
+img {
+  height: 30% !important;
 }
