@@ -1,1 +1,2 @@
-# Piece wędzarnicze - robiona na szybko.
+# Simple landing page about smokehouse dealer.
+## I used materialize here.
