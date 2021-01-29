@@ -1,2 +1,3 @@
-# Simple landing page about smokehouse dealer.
-## I used materialize here.
+# Landing page about smokehouse dealer.
+## Stack:
+- Materialize
